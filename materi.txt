@@ -1,0 +1,3 @@
+react membantu untuk membuat single page application(semua serba di klien)
+membuat single page application sederhana hanya dengan menggunakan javascript
+Server side routing diubah menjadi clien side routing dengan cara memanipulasi dom
